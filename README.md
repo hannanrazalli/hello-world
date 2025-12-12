@@ -5,4 +5,4 @@ Hello. my name is Hannan. I am a design engineer & document controller at SMH Ra
 
 This is day 4 of learning and using GIT. It seems that I am now understands more how to use it, even though I am still making mistakes and quite confused during the pull origin step, I am glad that it's the mistakes I learn in the early use. At least I know what I have done wrong to be avoided in the future.
 
-Today is friday.
+I want to test commit heatmap.
